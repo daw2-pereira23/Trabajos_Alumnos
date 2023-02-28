@@ -1,5 +1,5 @@
 export const footer = {
     template: `
-        footer
+        footer 
     `
 }
